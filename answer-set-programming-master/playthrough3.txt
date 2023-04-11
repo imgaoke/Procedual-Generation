@@ -1,0 +1,57 @@
+Welcome to the murder mystery game!
+May luck be on your side, Anonymous!
+
+Tragedy! A murder has occurred last night. david was found dead in bathroom this morning.
+Several friends (or are they?) were staying in this mansion, and nobody came in or out since.
+You, a detective, were called in to solve this mystery.
+Ask questions, examine places, and figure out who dunnit!
+
+Type ? for help!
+question adam
+Questioning adam
+who did you see
+I saw nobody but myself
+where were you
+I was in the bathroom the whole time.
+who do you think might have done this
+beatrice, because I think he/she is jealous of the relationship between me and the david
+stop
+You can once again do anything you wish.
+question beatrice
+Questioning beatrice
+where were you
+I was in the living_room the whole time.
+who did you see
+I saw nobody but myself
+who do you think might have done this
+adam, because I think he/she is jealous of the relationship between me and the david
+stop
+You can once again do anything you wish.
+question elisa
+Questioning elisa
+where were you
+I was in the kitchen the whole time.
+who did you see
+I saw david
+who do you think might have done this
+I don't know
+stop
+You can once again do anything you wish.
+question charlie
+Questioning charlie
+where were you
+I was in the living_room the whole time.
+who do you think might have done this
+adam, because I think he/she is jealous of the relationship between me and the david
+who did you see
+I saw beatrice
+stop
+You can once again do anything you wish.
+accuse charlie
+You have accused charlie! Let's see if they're the murderer!
+.
+.
+.
+Good job, Anonymous! You have accused the actual murderer!
+It only took you 17 steps.
+Thanks for playing!

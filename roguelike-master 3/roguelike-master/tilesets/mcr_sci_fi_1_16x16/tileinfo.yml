@@ -1,0 +1,204 @@
+# https://klinkos.itch.io/mcr-sci-fi-1
+---
+name: klinkos
+size: 16
+files:
+  - name: spritesheet.png
+    tilesPerRow: 14
+    tiles:
+      - name: PLACEHOLDER 1
+      - name: PLACEHOLDER 2
+      - name: PLACEHOLDER 3
+      - name: PLACEHOLDER 4
+      - name: PLACEHOLDER 5
+      - name: PLACEHOLDER 6
+      - name: PLACEHOLDER 7
+      - name: PLACEHOLDER 8
+      - name: PLACEHOLDER 9
+      - name: PLACEHOLDER 10
+      - name: PLACEHOLDER 11
+      - name: PLACEHOLDER 12
+      - name: PLACEHOLDER 13
+      - name: PLACEHOLDER 14
+      - name: Player
+      - name: PLACEHOLDER 16
+      - name: PLACEHOLDER 17
+      - name: PLACEHOLDER 18
+      - name: PLACEHOLDER 19
+      - name: PLACEHOLDER 20
+      - name: PLACEHOLDER 21
+      - name: PLACEHOLDER 22
+      - name: PLACEHOLDER 23
+      - name: PLACEHOLDER 24
+      - name: PLACEHOLDER 25
+      - name: PLACEHOLDER 26
+      - name: PLACEHOLDER 27
+      - name: PLACEHOLDER 28
+      - name: Rat
+      - name: PLACEHOLDER 30(NOT INTERESTED)
+      - name: PLACEHOLDER 31(NOT INTERESTED)
+      - name: PLACEHOLDER 32
+      - name: PLACEHOLDER 33
+      - name: PLACEHOLDER 34
+      - name: PLACEHOLDER 35
+      - name: PLACEHOLDER 36
+      - name: PLACEHOLDER 37
+      - name: PLACEHOLDER 38
+      - name: PLACEHOLDER 39
+      - name: PLACEHOLDER 40
+      - name: PLACEHOLDER 41
+      - name: PLACEHOLDER 42
+      - name: PLACEHOLDER 43
+      - name: PLACEHOLDER 44
+      - name: PLACEHOLDER 45
+      - name: PLACEHOLDER 46
+      - name: PLACEHOLDER 47(NOT INTERESTED)
+      - name: PLACEHOLDER 48(NOT INTERESTED)
+      - name: PLACEHOLDER 49(NOT INTERESTED)
+      - name: PLACEHOLDER 50
+      - name: PLACEHOLDER 51(NOT INTERESTED)
+      - name: PLACEHOLDER 52(NOT INTERESTED)
+      - name: PLACEHOLDER 53(NOT INTERESTED)
+      - name: PLACEHOLDER 54
+      - name: PLACEHOLDER 55
+      - name: PLACEHOLDER 56
+      - name: PLACEHOLDER 57(NOT INTERESTED)
+      - name: PLACEHOLDER 58(NOT INTERESTED)
+      - name: PLACEHOLDER 59(NOT INTERESTED)
+      - name: PLACEHOLDER 60
+      - name: PLACEHOLDER 61(NOT INTERESTED)
+      - name: PLACEHOLDER 62(NOT INTERESTED)
+      - name: PLACEHOLDER 63
+      - name: PLACEHOLDER 64
+      - name: PLACEHOLDER 65(NOT INTERESTED)
+      - name: PLACEHOLDER 66(NOT INTERESTED)
+      - name: PLACEHOLDER 67(NOT INTERESTED)
+      - name: PLACEHOLDER 68
+      - name: PLACEHOLDER 69
+      - name: PLACEHOLDER 70
+      - name: PLACEHOLDER 71(NOT INTERESTED)
+      - name: PLACEHOLDER 72(NOT INTERESTED)
+      - name: PLACEHOLDER 73(NOT INTERESTED)
+      - name: PLACEHOLDER 74
+      - name: PLACEHOLDER 75(NOT INTERESTED)
+      - name: PLACEHOLDER 76(NOT INTERESTED)
+      - name: PLACEHOLDER 77
+      - name: PLACEHOLDER 78
+      - name: PLACEHOLDER 79(NOT INTERESTED)
+      - name: PLACEHOLDER 80(NOT INTERESTED)
+      - name: PLACEHOLDER 81(NOT INTERESTED)
+      - name: PLACEHOLDER 82
+      - name: PLACEHOLDER 83
+      - name: PLACEHOLDER 84
+      - name: PLACEHOLDER 85
+      - name: PLACEHOLDER 86
+      - name: PLACEHOLDER 87
+      - name: PLACEHOLDER 88
+      - name: PLACEHOLDER 89
+      - name: PLACEHOLDER 90
+      - name: PLACEHOLDER 91
+      - name: PLACEHOLDER 92
+      - name: PLACEHOLDER 93
+      - name: PLACEHOLDER 94
+      - name: PLACEHOLDER 95
+      - name: PLACEHOLDER 96
+      - name: PLACEHOLDER 97
+      - name: PLACEHOLDER 98
+      - name: PLACEHOLDER 99(NOT INTERESTED)
+      - name: PLACEHOLDER 100(NOT INTERESTED)
+      - name: PLACEHOLDER 101(NOT INTERESTED)
+      - name: PLACEHOLDER 102(NOT INTERESTED)
+      - name: PLACEHOLDER 103(NOT INTERESTED)
+      - name: PLACEHOLDER 104(NOT INTERESTED)
+      - name: Wall
+      - name: Corridor
+      - name: PLACEHOLDER 107
+      - name: Stair
+      - name: PLACEHOLDER 109(tiles from this one till the end are not marked)
+      - name: PLACEHOLDER 110
+      - name: PLACEHOLDER 111
+      - name: PLACEHOLDER 112
+      - name: PLACEHOLDER 113
+      - name: PLACEHOLDER 114
+      - name: PLACEHOLDER 115
+      - name: PLACEHOLDER 116
+      - name: PLACEHOLDER 117
+      - name: PLACEHOLDER 118
+      - name: PLACEHOLDER 119
+      - name: PLACEHOLDER 120
+      - name: PLACEHOLDER 121
+      - name: PLACEHOLDER 122
+      - name: PLACEHOLDER 123
+      - name: PLACEHOLDER 124
+      - name: PLACEHOLDER 125
+      - name: PLACEHOLDER 126
+      - name: PLACEHOLDER 127
+      - name: PLACEHOLDER 128
+      - name: PLACEHOLDER 129
+      - name: PLACEHOLDER 130
+      - name: PLACEHOLDER 131
+      - name: PLACEHOLDER 132
+      - name: PLACEHOLDER 133
+      - name: PLACEHOLDER 134
+      - name: PLACEHOLDER 135
+      - name: PLACEHOLDER 136
+      - name: PLACEHOLDER 137
+      - name: PLACEHOLDER 138
+      - name: PLACEHOLDER 139
+      - name: PLACEHOLDER 140
+      - name: PLACEHOLDER 141
+      - name: PLACEHOLDER 142
+      - name: PLACEHOLDER 143
+      - name: PLACEHOLDER 144
+      - name: PLACEHOLDER 145
+      - name: PLACEHOLDER 146
+      - name: PLACEHOLDER 147
+      - name: PLACEHOLDER 148
+      - name: PLACEHOLDER 149
+      - name: PLACEHOLDER 150
+      - name: PLACEHOLDER 151
+      - name: PLACEHOLDER 152
+      - name: PLACEHOLDER 153
+      - name: PLACEHOLDER 154
+      - name: PLACEHOLDER 155
+      - name: PLACEHOLDER 156
+      - name: PLACEHOLDER 157
+      - name: PLACEHOLDER 158
+      - name: PLACEHOLDER 159
+      - name: PLACEHOLDER 160
+      - name: PLACEHOLDER 161
+      - name: PLACEHOLDER 162
+      - name: PLACEHOLDER 163
+      - name: PLACEHOLDER 164
+      - name: PLACEHOLDER 165
+      - name: PLACEHOLDER 166
+      - name: PLACEHOLDER 167
+      - name: PLACEHOLDER 168
+      - name: PLACEHOLDER 169
+      - name: PLACEHOLDER 170
+      - name: PLACEHOLDER 171
+      - name: PLACEHOLDER 172
+      - name: PLACEHOLDER 173
+      - name: PLACEHOLDER 174
+      - name: PLACEHOLDER 175
+      - name: PLACEHOLDER 176
+      - name: PLACEHOLDER 177
+      - name: PLACEHOLDER 178
+      - name: PLACEHOLDER 179
+      - name: PLACEHOLDER 180
+      - name: PLACEHOLDER 181
+      - name: PLACEHOLDER 182
+      - name: PLACEHOLDER 183
+      - name: PLACEHOLDER 184
+      - name: PLACEHOLDER 185
+      - name: PLACEHOLDER 186
+      - name: PLACEHOLDER 187
+      - name: PLACEHOLDER 188
+      - name: PLACEHOLDER 189
+      - name: PLACEHOLDER 190
+      - name: PLACEHOLDER 191
+      - name: PLACEHOLDER 192
+      - name: PLACEHOLDER 193
+      - name: PLACEHOLDER 194
+      - name: PLACEHOLDER 195
+      - name: PLACEHOLDER 196

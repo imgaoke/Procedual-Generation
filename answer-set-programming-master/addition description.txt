@@ -1,0 +1,10 @@
+Not everybody has a good memory except murderer. So the people who are not the murderer might not remember who he/she saw in the room he/she was in.
+The murderer will tell a different room than the murder room and will claim to have seen the person in the room that he claims to be in.
+So asking the person who the murdurer claims to be with or the person who was in the murderer room about who did they see might not work.
+
+How to ensure a single possible logical deduction?
+The victim has relationships with 3 other people. Let's say the 3 people are A,B and C.
+Let's say B is the murderer. B knows that the victim has relationships with A and C so he/she commit the crime.
+But A only knows the victim has a relationship with C and C only knows the victim has a relationship with A.
+So A and C will try to suspect each other. And B will frame A or C for commiting the crime.
+Therefore the person who is not getting suspected but suspecting some other person is the murderer.
